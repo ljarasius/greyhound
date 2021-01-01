@@ -3,11 +3,17 @@
 A Chrome/Firefox/Safari browser extension for [Domain](https://www.domain.com.au) and [Realestate](https://www.realestate.com.au) that auto-magically checks the [Statutory Infrastructure Provider](https://www.acma.gov.au/statutory-infrastructure-provider-sip-register) (SIP) for listing addresses displayed using data from [data.gov.au](https://data.gov.au). Some addresses do not have a SIP assigned currently, and further data sets are used to fill in the gaps. Oh, and it also reports what technology type is available.
 
 ## Contents
-- Background
-- Usage
-- Contributing
-- Why internet "down under" sucks
-- References
+- [Background](#background)
+- [Usage](#usage)
+- [Contributing](#contributing)
+- [Why internet "down under" sucks](#why-internet-down-under-sucks)
+  - [Introduction](#introduction)
+  - [What different options are there?](#what-different-options-are-there)
+  - [Why does it matter how I connect?](#why-does-it-matter-how-i-connnect)
+  - [So why don't we have fibre everywhere?](#so-why-dont-we-have-fibre-everywhere)
+  - [Why don't carriers build over each other then?](#why-dont-carriers-build-over-each-other-then)
+  - [Conclusion](#conclusion)
+- [References](#references)
 
 ## Background
 
@@ -43,7 +49,7 @@ In summary, any fixed-line network built or modified after 1st January 2011 that
 
 Further information on the Telecommunications Act 1997 Parts 7 and 8 is available [here](https://www.communications.gov.au/policy/policy-listing/telecommunications-act-parts-7-and-8-requirements-and-exemptions).
 
-### What different options are there
+### What different options are there?
 
 The most important factor for a reliable and fast connection is always the "last mile" connection. This describes what technology is used to connect a premises to a network, with many different options that are available for use.
 
@@ -77,7 +83,7 @@ Well, that was almost the original plan. Roll fibre to 93% of Australia's popula
 
 They do, just not in _residential_ areas. Parts 7 and 8 of the Telecommunications Act 1997 mean that they would have to wholesale that network out, which makes the investment much less appealing. Some carriers use wireless technologies to connect a complex to their network, which isn't covered under the legislation and allows them to sell directly to customers, however wireless can have many drawbacks including interference and slower link speeds.
 
-### Summary
+### Conclusion
 
 Despite former NBN Co CEO Bill Morrow stating that "Even if we offered it for free, we see the evidence around the world that they wouldn't use it anyway" when referencing Gigabit speeds, offering high speeds at affordable prices drives innovation and creates a better experience for consumers. It's not like [Deloitte was commissioned by the Australian Government](https://www2.deloitte.com/content/dam/Deloitte/au/Documents/finance/deloitte-au-fas-benefits-highspeed-broadband-v2-240914.pdf) to show these benefits.
 
