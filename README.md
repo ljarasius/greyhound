@@ -77,7 +77,7 @@ Coaxial networks have their own set of issues too, being that it is a shared med
 
 Well, that was almost the original plan. Roll fibre to 93% of Australia's population, with the final 7% being served by satellite or fixed wireless as these premises were rural and extremely expensive to deploy fibre to. However, a change of Federal Government in 2013 resulted in the move to a Multi Technology Mix (MTM) model for the fixed line component, and we are now left with "Telstra’s dilapidated twisted pair and HFC access networks under new management"².
 
-![Don't blame me, I voted for Kodos](https://media.giphy.com/media/3o6MbpHSxVAPUQQNws/source.gif)
+![Don't blame me, I voted for Kodos](https://img.huffingtonpost.com/asset/5cd5e3e71f000059009f1024.gif?ops=scalefit_630_noupscale)
 
 ### Why don't carriers build over each other then?
 
